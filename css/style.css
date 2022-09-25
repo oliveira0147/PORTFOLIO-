@@ -1,0 +1,52 @@
+.FAM{
+    text-decoration: none;
+    color: orange;
+}
+
+.name{
+    color: green;
+}
+
+.nav-link{
+    color: white;
+}
+
+.html{
+    color: orange;
+}
+
+.css{
+    color: blue;
+}
+
+.projetos{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.javascript{
+    color: yellow;
+}
+
+
+.card-header{
+    background-color: rgba(87, 84, 84, 0.281);
+}
+
+.card-body{
+    background-color: rgba(87, 84, 84, 0.281);
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+h1{
+    color: white;
+}
+
+main{
+    padding: 10px;
+}
+
